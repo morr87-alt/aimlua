@@ -1,6 +1,6 @@
-local BASE        = rawget(_G, "FEMBOY_BASE") or "https://raw.githubusercontent.com/MudillaScripts/aw_cs2v6_femboytap/main/"
-local GUILIB_URL  = BASE .. "femboytap_guilib.lua"
-local CHANGER_URL = BASE .. "femboytap_changer.lua"
+local BASE        = "https://raw.githubusercontent.com/morr87-alt/aimlua/main/"
+local GUILIB_URL  = BASE .. "aimlua_guilib.lua"
+local CHANGER_URL = BASE .. "aimlua-changer.lua"
 
 local ffi = rawget(_G, "ffi")
 
